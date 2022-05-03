@@ -143,12 +143,10 @@ body {
 }
 /* Секция 1 Cover */
 .cover {
-  /* background-color: var(--cover-background); */
   background-image: url(../images/cover.jpg);
   background-position: 50% 50%;
-  /* background-repeat: no-repeat; */
-  background-size: 1600px;
-  /* max-width: 1600px; */
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .cover2 {
   background-color: rgba(47, 48, 58, 0.4);
